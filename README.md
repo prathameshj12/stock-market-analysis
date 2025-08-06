@@ -1,11 +1,10 @@
-```markdown
-# 📈 Stock Market Analysis
+# Stock Market Analysis
 
 This project explores and analyzes historical stock market data to identify trends, patterns, and performance insights. Using data from publicly listed companies, it provides visual and statistical perspectives on stock behavior over time.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Download and preprocess historical stock price data
 - Time-series visualizations (price, volume, moving averages)
@@ -15,7 +14,7 @@ This project explores and analyzes historical stock market data to identify tren
 
 ---
 
-## 📊 Technologies Used
+## Technologies Used
 
 - Python 3.x
 - pandas
@@ -27,7 +26,7 @@ This project explores and analyzes historical stock market data to identify tren
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 
@@ -40,7 +39,7 @@ This project explores and analyzes historical stock market data to identify tren
 
 ---
 
-## 📥 Data Source
+## Data Source
 
 Historical stock data fetched using:
 
@@ -49,7 +48,7 @@ Historical stock data fetched using:
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 1. Clone the repository:
    ```bash
